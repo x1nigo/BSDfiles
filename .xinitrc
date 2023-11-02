@@ -1,6 +1,6 @@
 #!/bin/sh
 
-$HOME/.local/src/statusbar.sh &
+$HOME/.local/src/bsdbar.sh &
 dunst &
 picom &
 setbg &
